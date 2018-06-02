@@ -32,10 +32,10 @@ void inicia()
 {
 
     std::thread first(orientacao);
-    //std::thread second(habilidade);
+    std::thread second(habilidade);
 
     first.join();
-    //second.join();
+    second.join();
 }
 
 
