@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1527882557 source:c:\c++ projetos\alpheu\main.cpp
+	<iostream>
+	<thread>
+	"EngineMovimento.h"
+	"Mapa.h"
+
+1527877247 source:c:\c++ projetos\alpheu\src\movimento.cpp
+	"Movimento.h"
+
+1527877262 c:\c++ projetos\alpheu\include\movimento.h
+	<Windows.h>
+
+1527880624 source:c:\c++ projetos\alpheu\src\enginemovimento.cpp
+	"EngineMovimento.h"
+
+1527880629 c:\c++ projetos\alpheu\include\enginemovimento.h
+	<Windows.h>
+
+1527882168 source:c:\c++ projetos\alpheu\src\mapa.cpp
+	"Mapa.h"
+
+1527882084 c:\c++ projetos\alpheu\include\mapa.h
+	<iostream>
+
